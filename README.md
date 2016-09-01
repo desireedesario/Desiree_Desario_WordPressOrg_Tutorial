@@ -172,7 +172,7 @@ Wordpress currently only supports MySQL & MariaDB. There are efforts being made 
 ####Open Source Drawbacks
 Source code and plugins create potential security problems. Failure to update plugins are a way for hackers to gain entry into your code.
 
-####Scalability & flexibility **
+####Scalability & flexibility
 WordPress was intended for use with websites with less content.
 
 ####Updates
@@ -180,5 +180,7 @@ Closing security holes is made easy updates provided by WordPress. However, upda
 
 ####One Size Fits All! Sort of..
 Wordpress sites contain lots of generic code that may not be necessary for a specific website. This “bloated code” can slow down your site and affect your user experience.
+
+---
 
 *Resources: [Getting Started With WordPress](https://codex.wordpress.org/Getting_Started_with_WordPress)*
