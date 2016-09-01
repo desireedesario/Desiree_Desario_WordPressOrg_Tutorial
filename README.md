@@ -1,9 +1,5 @@
 #WordPress Tutorial for WDI
 
-###Link to WordPress website  
-
-###[WordPress Tutorial](http://desireedesario.com/wordpress/)
-
 ##What is WordPress?
 
 WordPress is a free and open-source [content management system (CMS)](https://en.wikipedia.org/wiki/Content_management_system) created with PHP and MySQL. Before looking into what WordPress is, it is helpful to understand what a content managing system is. *A CMS is a computer application that helps a group of web content creators with possibly little to no web development experience to create and modify a website using a simple interface to avoid unnecessary struggles with HTML, CSS, or JavaScript for the multiple users.*
